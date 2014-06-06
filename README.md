@@ -2,7 +2,7 @@
 
 Here are the source codes of "`send_my_score`" used in [Etu Hadoop Competition 2014][1]. For detail competition rules please check following URLs:
 
- * preliminary : http://ehc.etusolution.com/
+ * preliminary : http://ehc.etusolution.com/index.php/tw/#rules
  * finals : http://ehc.etusolution.com/final/rules.html
 
 ### Folders and Files
