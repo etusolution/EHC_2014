@@ -51,8 +51,8 @@ Apache 2.0
 
 ## FAQ
 
-**Q1: Can I use this program to run another event?**
-A1: It's open to all teachers and students. *Please do not use it for commercial purpose*.
+ * **Q1: Can I use this program to run another event?**
+ * A1: It's open to all teachers and students. *Please do not use it for commercial purpose*.
 
 
   [1]: http://ehc.etusolution.com
